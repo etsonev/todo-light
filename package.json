@@ -1,0 +1,22 @@
+{
+  "name": "todo-light",
+  "version": "1.0.0",
+  "description": "Light Todo Web App.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etsonev/todo-light.git"
+  },
+  "author": "Emil Tsonev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etsonev/todo-light/issues"
+  },
+  "homepage": "https://github.com/etsonev/todo-light#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
